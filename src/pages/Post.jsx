@@ -47,7 +47,7 @@ export default function Post() {
                     );
                 }
 
-                navigate("/");
+                navigate(location.state?.from || "/ ");
             }
         } catch (error) {
             console.error("DELETE POST ERROR:", error);
