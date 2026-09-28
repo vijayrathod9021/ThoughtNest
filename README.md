@@ -215,11 +215,11 @@ Screenshots will be added after the production deployment.
 
 ## Live Demo
 
-Coming soon.
+[View Live Demo](https://thoughtnest-app.vercel.app)
 
 ## Repository
 
-[ThoughtNest on GitHub](https://github.com/vijayrathod9021/ThoughtNest)
+[View Source Code on GitHub](https://github.com/vijayrathod9021/ThoughtNest)
 
 ## Author
 
