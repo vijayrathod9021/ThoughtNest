@@ -211,7 +211,17 @@ One of the most useful parts of this project was debugging problems instead of o
 
 ## Screenshots
 
-Screenshots will be added after the production deployment.
+### Home
+
+![ThoughtNest Home](screenshots/home.png)
+
+### All Posts
+
+![ThoughtNest All Posts](screenshots/all-posts.png)
+
+### Write Post
+
+![ThoughtNest Write Post](screenshots/write-post.png)
 
 ## Live Demo
 
