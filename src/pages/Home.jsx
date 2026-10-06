@@ -57,7 +57,7 @@ function Home() {
                         <div className="flex min-h-[75vh] items-center justify-center py-10 sm:py-16">
                             <div className="mx-auto w-full max-w-3xl text-center">
                                 <p className="mb-3 text-xs font-semibold uppercase tracking-wider text-blue-600 sm:mb-4 sm:text-sm">
-                                    Welcome to the blog
+                                    Welcome to the ThoughtNest
                                 </p>
 
                                 <h1 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-5xl md:text-6xl">
